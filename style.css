@@ -46,6 +46,10 @@ header {
   z-index: 100;
 }
 
+.sticky {
+  border-bottom: 0.1px solid var(--main-color);
+}
+
 .logo {
   font-size: 2.5rem;
   color: var(--text-color);
